@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Winst-S
 - 👀 I’m interested in networks
-- 🌱 I’m currently learning to read
-- 💞️ I’m looking to collaborate on developme
+- 💞️ I’m looking to collaborate on development
 
 <!---
 Winst-S/Winst-S is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
